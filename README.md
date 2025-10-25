@@ -53,6 +53,7 @@ I used MacPro7,1
 More info:
 
 https://www.reddit.com/r/hackintosh/comments/1fdkkbc/updated_macos_ryzen_9950x/
+https://www.reddit.com/r/hackintosh/comments/1e0spvf/ryzentosh_sonoma_145_oc_10/
 
 ---
 
