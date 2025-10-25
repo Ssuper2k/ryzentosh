@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Timeout</key>
+    <integer>0</integer>
+    <key>DefaultVolume</key>
+    <string>PciRoot(0x0)\Pci(0x2,0x2)\Pci(0x0,0x0)\NVMe(0x1,B6-AD-B4-11-B7-38-25-00)\HD(2,GPT,009DE54C-35E8-461C-8705-FF8A390CA9B9,0x8800,0x5C000)\EFI\OC\OpenCore.efi</string>
+    <key>Debug</key>
+    <string>false</string>
+</dict>
+</plist>
