@@ -4,6 +4,7 @@ This repository contains a custom OpenCore EFI configuration for running macOS o
 
 ## 🧰 System Specs
 
+- **MOBO**: Asus CrossHair Hero x670e  
 - **CPU**: AMD Ryzen 9 9950X  
 - **GPU**: AMD Radeon 6900XT (16GiB)  
 - **SSD**: Samsung 990 Pro 2TiB  
