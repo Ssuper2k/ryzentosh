@@ -18,7 +18,7 @@ This repository contains a custom OpenCore EFI configuration for running macOS o
 
 - **Network**: *Intel Ethernet I225-V (2.5 Gbit):*
 - **Bluetooth 5.0**: *(Asus Dongle AC55BT)*
-- **Heyborad Media/Volume controls**
+- **Keyborad Media/Volume controls**
 - **Video-output** DP + HDMI + usbC*
 - **All/most USB ports**
 - **SLEEP** after resume I loose anlalog sound, though
