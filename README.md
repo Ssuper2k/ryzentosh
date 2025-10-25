@@ -9,7 +9,7 @@ This repository contains a custom OpenCore EFI configuration for running macOS o
 - **GPU**: AMD Radeon 6900XT (16GiB)  
 - **SSD**: Samsung 990 Pro 2TiB  
 - **RAM**: 48GiB (2x24GiB @ 8000MTs)  
-- **Display**: Samsun Odyssey 57" (PbP 3x)
+- **Display**: Samsung Odyssey 57" (PbP 3x)
 - **macOS Version**: Sequoia 15.71  
 - **OpenCore Version**: 1.05  
 
